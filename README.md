@@ -14,7 +14,8 @@ An interactive chatbot that reads PDF files and answers questions based on their
 - Perfect for portfolios and small client projects
 
 ### 🔗 Live Demo:
-[Try the chatbot online]([https://chatbot-pdf.streamlit.app](https://chatbot-pdf-4yjwxa4eat9ktfxsjrhanv.streamlit.app/))
+[Try the chatbot online]  
+([https://chatbot-pdf.streamlit.app](https://chatbot-pdf-4yjwxa4eat9ktfxsjrhanv.streamlit.app/))
 
 ### 👨‍💻 Built by:
 [kabdellaoui07 on GitHub](https://github.com/kabdellaoui07)
